@@ -5,7 +5,13 @@
 
 # StockViz-Trading
 
-This project develops a web application as part of the JPMorgan Chase's [Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship). In particular, the web application provides an interactive dashboard that tracks and visualizes daily movements of stock data in a clear and visually appealing manner and alert potential trading opportunities. Hence, this visualization of stock data feeds allows users to monitor potential trade strategies.
+This project develops a web application as part of the JPMorgan Chase's [Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship). In particular, the web application provides an interactive dashboard that tracks and visualizes daily movements of stock data in a clear and visually appealing manner as well as provides alerts for potential trading opportunities. Hence, this visualization of stock data feeds allows users to monitor potential trade strategies.
+
+## Demo
+
+<p align="center">
+  <img src="https://taivu1998.github.io/assets/images/projects/JPMorganChase_Demo.gif" width="590">
+</p>
 
 ## Installation
 
@@ -29,3 +35,7 @@ npm install && npm start
 Open http://localhost:3000 to view the app in the browser.
 
 If the app fails to run, download this copy of [node_modules](https://drive.google.com/file/d/1amF7C-4mRZCi3Ab5xuH0XCRQubp4aa_t/view).
+
+## Authors
+
+* **Tai Vu** - Stanford University

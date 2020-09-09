@@ -10,7 +10,7 @@ This project develops a web application as part of the JPMorgan Chase's [Softwar
 ## Demo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46636857/92553931-10e88700-f219-11ea-99a4-97cd41d87f0d.gif">
+  <img src="https://user-images.githubusercontent.com/46636857/92553931-10e88700-f219-11ea-99a4-97cd41d87f0d.gif" width="580">
 </p>
 
 ## Installation

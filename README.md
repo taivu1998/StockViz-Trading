@@ -3,7 +3,7 @@
 <img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpm+gitub+.png"></a>
 </p>
 
-# JPMorgan-Chase-SWE-Virtual-Internship
+# StockViz-Trading
 
 This project develops a web application as part of the JPMorgan Chase's [Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship). In particular, the web application provides an interactive dashboard that tracks and visualizes daily movements of stock data in a clear and visually appealing manner and alert potential trading opportunities. Hence, this visualization of stock data feeds allows users to monitor potential trade strategies.
 

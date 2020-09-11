@@ -35,7 +35,3 @@ npm install && npm start
 Open http://localhost:3000 to view the app in the browser.
 
 If the app fails to run, download this copy of [node_modules](https://drive.google.com/file/d/1amF7C-4mRZCi3Ab5xuH0XCRQubp4aa_t/view).
-
-## Authors
-
-* **Tai Vu** - Stanford University
